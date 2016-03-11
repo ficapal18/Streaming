@@ -1,0 +1,5 @@
+#hostname	latitude	longitude	rtt[ms]	ttl	country
+#ripeID measurement:	3614781
+850	-30.0315	-51.2295	121.152024	81	Brazil
+12605	-30.0315	-51.2295	147.385205	78	Brazil
+13663	-30.0315	-51.2295	168.78428	79	Brazil
